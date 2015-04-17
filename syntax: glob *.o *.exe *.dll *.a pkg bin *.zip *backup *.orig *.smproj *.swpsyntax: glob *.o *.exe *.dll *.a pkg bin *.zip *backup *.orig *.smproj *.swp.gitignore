@@ -1,0 +1,12 @@
+syntax: glob
+*.o
+*.exe
+*.dll
+*.a
+pkg
+bin
+*.zip
+*backup
+*.orig
+*.smproj
+*.swp
