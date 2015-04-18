@@ -1,0 +1,7 @@
+*.o
+*.a
+pkg
+bin
+*.zip
+*backup
+*.orig
